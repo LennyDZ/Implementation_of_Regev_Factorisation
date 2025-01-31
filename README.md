@@ -6,4 +6,4 @@ This repo contains several notebooks :
   - ```Find_lattice.ipynb```: contains tools to compute the exact expected dual lattices for a given instances of the problem.
   - ```QC_util.ipynb```: contains all sorts of utility functions for the other notebook.
 
-It also contains a improved version of the [postprocessing code by Ekera](https://github.com/ekera/regevnum)
+It also contains a improved version of the [postprocessing code by Ekera](https://github.com/ekera/regevnum).
